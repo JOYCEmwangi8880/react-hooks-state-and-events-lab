@@ -98,11 +98,11 @@ header button {
 }
 
 .Items button.add {
-  background-color: var(--yellow);
+  background-color: (yellow);
 }
 
 .Items button.remove {
-  background-color: var(--magenta);
+  background-color: (magenta);
   color: white;
 }
 
